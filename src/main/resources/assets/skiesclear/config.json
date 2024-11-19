@@ -3,7 +3,7 @@
   "clears": {
     "example": {
       "enabled": true,
-      "interval": 60,
+      "interval": 420,
       "dimensions": [],
       "clear_persistent": false,
       "clear_named": false,
